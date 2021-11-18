@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShohanMir
-- 👀 I’m interested in Web designer and development, programing
+- 👀 I’m interested in Web designing, development and programing
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
