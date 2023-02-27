@@ -6,4 +6,6 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohanMir)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohanMir&hide=contribs,prs)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShohanMir)](https://github.com/ShohanMir&theme=react-dark/github-readme-activity-graph)
