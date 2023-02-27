@@ -5,4 +5,4 @@ ShohanMir/ShohanMir is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShohanMir)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShohanMir)](https://github.com/ShohanMir&theme=react-dark/github-readme-activity-graph)
