@@ -2,6 +2,10 @@
 
 I'm a dropout student and a full-stack developer with a passion for building web applications. I have experience with a variety of programming languages and frameworks, including Python, Django, Node.js, React, and more.
 
+![Profile views](https://gpvc.arturio.dev/ShohanMir) 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://https://www.linkedin.com/in/shohan-mir-771bba152//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://[twitter.com/FarizaNishat](https://twitter.com/imShohanMir))  
+
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=js,python,ts,html,css,nodejs,django,c++)](https://skillicons.dev)
 
