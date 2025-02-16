@@ -1,6 +1,6 @@
 # Hi there, I'm Shohan Mir 👋
 
-I'm a dropout student and a full-stack developer with a passion for building web applications. I have experience with a variety of programming languages and frameworks, including Python, Django, Node.js, React, and more.
+Experienced Software Developer with a proven track record in designing, developing, and deploying robust web applications. Proficient in JavaScript, TypeScript, Python, C++, and Go (Golang), with expertise in frameworks like React, Next.js, Node.js, Express.js, Django, and Django REST Framework (DRF). Skilled in API development (RESTful and GraphQL), optimizing backend systems for performance and scalability, and implementing real- time communication features using WebSockets and Socket.IO. Experienced in working with databases such as MongoDB, MySQL, and SQL. Passionate about creating user-centric, data-driven solutions that enhance user experiences and deliver measurable impact.
 
 :coffee: &emsp;Connect with me!
 
