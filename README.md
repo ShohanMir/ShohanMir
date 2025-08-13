@@ -32,11 +32,23 @@ ShohanMir/ShohanMir is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShohanMir&layout=pie&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 My GitHub Stats
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohanMir&count_private=true&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
- [![GitHub Streak](https://streak-stats.demolab.com?user=ShohanMir&theme=radical)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td align="left" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShohanMir&layout=pie&theme=radical" alt="Top Languages" width="300"/>
+    </td>
+    <td align="right" style="width: 50%;">
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=ShohanMir&show_icons=true&theme=radical&count_private=true" alt="Shohan's GitHub Stats" width="400"/>
+      </div>
+      <div style="margin-top: 10px;">
+        <img src="https://streak-stats.demolab.com?user=ShohanMir&theme=radical" alt="GitHub Streak" width="400"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShohanMir&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)--->
