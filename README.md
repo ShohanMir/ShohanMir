@@ -1,24 +1,32 @@
-# Hi there, I'm Shohan Mir 👋
+# 👋 Hy, I'm Shohan
 
-Experienced Software Developer with a proven track record in designing, developing, and deploying robust web applications. Proficient in JavaScript, TypeScript, Python, C++, and Go (Golang), with expertise in frameworks like React, Next.js, Node.js, Express.js, Django, and Django REST Framework (DRF). Skilled in API development (RESTful and GraphQL), optimizing backend systems for performance and scalability, and implementing real- time communication features using WebSockets and Socket.IO. Experienced in working with databases such as MongoDB, MySQL, and SQL. Passionate about creating user-centric, data-driven solutions that enhance user experiences and deliver measurable impact.
+I'm a Software Developer skilled in building scalable web applications with JavaScript, TypeScript, Python, C++, and Go. I work with frameworks like React, Next.js, Node.js, Express.js, Django, and Django REST Framework to create efficient solutions. My expertise includes RESTful and GraphQL APIs, backend optimization, real-time features with WebSockets and Socket.IO, and databases like MongoDB, MySQL, and SQL.
 
 :coffee: &emsp;Connect with me!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohan-mir-771bba152/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imShohanMir) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohan7mir@gmail.com)
 
 
-# Skills
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=00000)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+## 🛠️ Tech Stack
 
+### Languages & Frameworks
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### Tools & Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<!---
 # Other Skills
 [![My Skills](https://skillicons.dev/icons?i=wordpress,ps,ai,pr)](https://skillicons.dev)
-
+--->
 # Interests
 Outside of programming, I enjoy playing football, watching movies, and trying out to learn new things everyday.
 
+<!---
 # Goals
 In the future, I hope to continue building my skills to become an engineer rather than a developer on my own and work on projects that have a positive impact on the world. I'm also interested in exploring new technologies every single day and learning from other developers.
-
+--->
 <!---
 ShohanMir/ShohanMir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
