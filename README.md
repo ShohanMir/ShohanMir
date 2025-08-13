@@ -1,4 +1,4 @@
-# 👋 Hy, I'm Shohan
+# 👋 Hey, I'm Shohan
 
 I'm a Software Developer skilled in building scalable web applications with JavaScript, TypeScript, Python, C++, and Go. I work with frameworks like React, Next.js, Node.js, Express.js, Django, and Django REST Framework to create efficient solutions. My expertise includes RESTful and GraphQL APIs, backend optimization, real-time features with WebSockets and Socket.IO, and databases like MongoDB, MySQL, and SQL.
 
