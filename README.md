@@ -7,7 +7,7 @@
 ### 🧠 About Me
 
 I write code to understand how things work from the inside out.  
-My focus is on building scalable, efficient systems that solve real problems — not just ship features.  
+My focus is on building scalable, efficient systems that solve real problems, not just ship features.  
 Performance, simplicity, and clarity drive every decision I make.
 
 > “Given enough time, every abstraction leaks.” – John Carmack
